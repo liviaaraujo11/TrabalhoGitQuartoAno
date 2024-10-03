@@ -1,0 +1,1 @@
+Projeto realizado para entender gerenciamento de repositórios no GitHub. Adicionou-se o arquivo OlaMundo.py e depois realizou-se alterações com commit e criou-se .gitignore para subida de arquivos do tipo png.
